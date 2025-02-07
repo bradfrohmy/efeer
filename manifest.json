@@ -1,0 +1,14 @@
+{
+  "originalUrl": "https://signin.att.com/dynamic/iamLRR/LrrController?IAM_OP=login&appName=m40842&loginSuccessURL=https:%2F%2Foidc.idp.clogin.att.com%2Fmga%2Fsps%2Foauth%2Foauth20%2Fauthorize%3Fnonce%3DEVJP7U7vUA%26SPRelayState%3Dhttps%25253A%25252F%25252Fcurrently.att.yahoo.com%25252F%26redirect_uri%3Dhttps%253A%252F%252Fatt-yahoo.att.net%252Fisam%252Fsps%252Foidc%252Frp%252FATT-HBO-RP%252Fredirect%252FYahoo%26response_mode%3Dform_post%26scope%3Dopenid%26response_type%3Did_token%26state%3DbrgXJzMvXi%26ForceAuthn%3Dtrue%26client_id%3Dm40842",
+  "title": "Login Screen",
+  "archiveTime": "2025-02-06T20:29:29.732Z",
+  "indexFilename": "index.html",
+  "resources": {
+    "fonts/0.woff2": "https://signin.att.com/static/siam/en/halo_c/halo-c-login/assets/fonts/att/ATTAleckSans/woff2/ATTAleckSans_W_Rg.woff2",
+    "fonts/2.woff2": "https://signin.att.com/static/siam/en/halo_c/halo-c-login/assets/fonts/att/ATTAleckSans/woff2/ATTAleckSans_W_Bd.woff2",
+    "stylesheet_0.css": "chrome-extension://idgpnmonknjnojddfkpgkljpfnnfcklj/assets/AppVite-041b9295.css",
+    "stylesheet_1.css": "https://signin.att.com/static/siam/en/halo_c/halo-c-login/styles.css?v=23.2.1",
+    "images/4.ico": "https://signin.att.com/favicon.ico",
+    "images/5.svg": "https://signin.att.com/static/siam/en/halo_c/images/logos/att_hz_lg_lkp_rgb_pos.svg"
+  }
+}
